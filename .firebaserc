@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "marchan-34ebe": {
+      "hosting": {
+        "ricachn": [
+          "marchan-34ebe"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "marchan-34ebe"
+  }
+}
