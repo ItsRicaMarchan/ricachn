@@ -101,8 +101,8 @@
             "prerender": false,
             "ssr": false,
             "browserTarget": "ricachn:build:production",
-            "firebaseProject": "marchan-34ebe",
-            "firebaseHostingSite": "marchan-34ebe"
+            "firebaseProject": "prefinals-34ef7",
+            "firebaseHostingSite": "prefinals-34ef7"
           }
         }
       }

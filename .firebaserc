@@ -6,9 +6,16 @@
           "marchan-34ebe"
         ]
       }
+    },
+    "prefinals-34ef7": {
+      "hosting": {
+        "ricachn": [
+          "prefinals-34ef7"
+        ]
+      }
     }
   },
   "projects": {
-    "default": "marchan-34ebe"
+    "default": "prefinals-34ef7"
   }
 }
