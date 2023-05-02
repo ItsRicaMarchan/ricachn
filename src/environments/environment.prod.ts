@@ -1,13 +1,13 @@
 export const environment = {
   firebase: {
-    apiKey: "AIzaSyAtpUbjpB8SnHtTAfq11T6LnPiY9CKk3gc",
-    authDomain: "marchan-34ebe.firebaseapp.com",
-    databaseURL: "https://marchan-34ebe-default-rtdb.firebaseio.com",
-    projectId: "marchan-34ebe",
-    storageBucket: "marchan-34ebe.appspot.com",
-    messagingSenderId: "85664544998",
-    appId: "1:85664544998:web:6915100d8865e4cd8a6327",
-    measurementId: "G-V9B89EJGT3"
+    apiKey: "AIzaSyCvKtIkxK-cUExVTO2ymlpqf1S4aCXYLFs",
+    authDomain: "prefinals-34ef7.firebaseapp.com",
+    databaseURL: "https://prefinals-34ef7-default-rtdb.firebaseio.com",
+    projectId: "prefinals-34ef7",
+    storageBucket: "prefinals-34ef7.appspot.com",
+    messagingSenderId: "671003683853",
+    appId: "1:671003683853:web:8439806b72ff324552f944",
+    measurementId: "G-8H9FKL7F2C"
   },
   production: true
 };
